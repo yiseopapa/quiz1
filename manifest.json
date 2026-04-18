@@ -1,14 +1,1 @@
-{
-  "name": "도 전입시험 퀴즈",
-  "short_name": "전입시험",
-  "description": "경상남도 전입시험 대비 랜덤 퀴즈",
-  "start_url": "./index.html",
-  "display": "standalone",
-  "background_color": "#f0f4f8",
-  "theme_color": "#1a5276",
-  "orientation": "portrait",
-  "icons": [
-    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png"},
-    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"}
-  ]
-}
+{"name":"도 전입시험 퀴즈","short_name":"전입시험","description":"경상남도 전입시험 대비 랜덤 퀴즈","start_url":"./index.html","display":"standalone","background_color":"#f0f4f8","theme_color":"#1a5276","orientation":"portrait","icons":[{"src":"icon-192.png","sizes":"192x192","type":"image/png"},{"src":"icon-512.png","sizes":"512x512","type":"image/png"}]}
